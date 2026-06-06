@@ -54,9 +54,80 @@
 
 ## 01 &nbsp;/&nbsp; About
 
-I build **Python, Django, SQL, and dbt analytics tools** that transform operational data into reliable, decision-ready outputs — KPI dashboards, BI-ready exports, tested dbt models, and data-quality-checked reporting layers across FX and FinTech domains.
+<br/>
 
-**15 years of UK operational experience** in FX, money transfer, reconciliation, and software platform support — applied directly to the FinTech and operational analytics domain of every portfolio project.
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+
+### &nbsp;The Work
+
+I build **Python, Django, SQL, and dbt analytics tools** that transform operational data into reliable, decision-ready outputs.
+
+Every project in this portfolio follows the same discipline:
+
+- **Source-first** — inspect and validate before transforming
+- **Test-driven** — dbt tests and Django TestCase on every layer
+- **Claim-safe** — documented boundaries, no overclaiming
+- **Evidence-based** — reviewer-verifiable outputs at every stage
+
+The result is analytics infrastructure that a hiring manager, a teammate, or a senior engineer can open, run, and trust.
+
+<br/>
+
+> *"Revenue rank #1 doesn't mean strongest product — Birthday Classic drops to margin rank #4 after waste-adjusted margin is applied."*
+> — BakeOps Intelligence · bakeops-dbt · SQL Evidence Layer
+
+</td>
+<td width="42%" valign="top">
+
+### &nbsp;The Evidence
+
+<br/>
+
+![15 Years](https://img.shields.io/badge/15_Years-UK_Operational_Experience-0a0c12?style=flat-square&logoColor=e8d5a3&labelColor=1a1e28&color=0a0c12)
+
+![£30k](https://img.shields.io/badge/£30k-Daily_Cash_Volumes_Managed-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+
+![800 Agents](https://img.shields.io/badge/~800-UK_Agents_Supported-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+
+![828 Tests](https://img.shields.io/badge/828-Automated_Tests_(CareerFunnel)-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+
+![26 Tests](https://img.shields.io/badge/26-dbt_Data_Tests_(bakeops--dbt)-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+
+![7 Models](https://img.shields.io/badge/7-dbt_Models_(staging_→_mart)-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+
+![6 Projects](https://img.shields.io/badge/6+-Public_Portfolio_Projects-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+
+<br/>
+
+**Domain expertise**
+
+```
+FX operations · Money transfer
+Reconciliation · AML procedures
+FinTech analytics · KPI reporting
+```
+
+**Targeting**
+
+```
+Data Analyst · BI Analyst
+Reporting Analyst
+Junior Analytics Engineer
+```
+
+**Location**
+
+```
+London, UK · Remote · Hybrid
+Full work authorisation
+No sponsorship required
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
