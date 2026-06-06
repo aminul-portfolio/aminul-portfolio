@@ -31,7 +31,7 @@
 
 [![◈ PORTFOLIO SITE](https://img.shields.io/badge/◈_PORTFOLIO_SITE-e8d5a3?style=for-the-badge&logoColor=0a0c12&labelColor=e8d5a3)](https://aminul-portfolio.github.io)&nbsp;&nbsp;
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aminul-islam-a71a871a2)&nbsp;&nbsp;
-[![EMAIL](https://img.shields.io/badge/EMAIL-0a0c12?style=for-the-badge&logo=gmail&logoColor=e8d5a3)](mailto:aminulislamkhan.tech@gmail.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-0a0c12?style=for-the-badge&logo=gmail&logoColor=e8d5a3)](https://mail.google.com/mail/?view=cm&to=aminulislamkhan.tech@gmail.com)
 
 </div>
 
