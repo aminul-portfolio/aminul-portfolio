@@ -1,782 +1,202 @@
-# Aminul Islam
+<div align="center">
 
-**Data Analyst · BI Analyst · Junior Analytics Engineer**  
-**Python · SQL · Excel · dbt · Django · FX & FinTech Operations**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4aa&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-📍 London, UK · Open to remote, hybrid, or London on-site roles · Full UK work authorisation
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<div align="center">
+
+# AMINUL ISLAM
+
+### Data Analyst &nbsp;·&nbsp; BI Analyst &nbsp;·&nbsp; Junior Analytics Engineer
+
+![Python](https://img.shields.io/badge/Python-050608?style=for-the-badge&logo=python&logoColor=00d4aa)
+![SQL](https://img.shields.io/badge/SQL-050608?style=for-the-badge&logo=postgresql&logoColor=00d4aa)
+![dbt](https://img.shields.io/badge/dbt-050608?style=for-the-badge&logo=dbt&logoColor=00d4aa)
+![Django](https://img.shields.io/badge/Django-050608?style=for-the-badge&logo=django&logoColor=00d4aa)
+![Excel](https://img.shields.io/badge/Excel-050608?style=for-the-badge&logo=microsoftexcel&logoColor=00d4aa)
+![DuckDB](https://img.shields.io/badge/DuckDB-050608?style=for-the-badge&logo=duckdb&logoColor=00d4aa)
+![Pandas](https://img.shields.io/badge/Pandas-050608?style=for-the-badge&logo=pandas&logoColor=00d4aa)
+![Git](https://img.shields.io/badge/Git-050608?style=for-the-badge&logo=git&logoColor=00d4aa)
+
+📍 **London, UK** &nbsp;·&nbsp; Remote · Hybrid · On-site &nbsp;·&nbsp; Full UK work authorisation &nbsp;·&nbsp; No sponsorship required
+
+</div>
 
 ---
 
-I build Python, Django, SQL, and dbt-based analytics tools that turn
-operational data into reliable, decision-ready outputs — KPI dashboards,
-BI-ready exports, tested dbt models, and data-quality-checked reporting layers.
+<div align="center">
 
-I bring 15 years of UK operational experience in FX, money transfer,
-reconciliation, and software platform support, applied directly to the
-FinTech and operational analytics domain of my portfolio projects.
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO_SITE-00d4aa?style=for-the-badge&logoColor=000000)](https://aminul-portfolio.github.io)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/aminul-islama71a871a2)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-050608?style=for-the-badge&logo=gmail&logoColor=00d4aa)](mailto:aminulislamkhan.tech@gmail.com)
+
+</div>
 
 ---
 
-## Analytics Workflow
+## &nbsp;⬡&nbsp; About
 
-```text
-Raw Data          Staging (SQL)         dbt (Transform)
-Sources ──────►  Clean & Standardise ──► Test & Document
-CSV Exports       Validate & Type        Business Logic
-                                              │
-                                              ▼
-                                    Models (Curated Data)
-                                    Trusted · Consistent
-                                              │
-                                              ▼
-                                    Dashboards & Exports
-                                    Business Insight
+I build **Python, Django, SQL, and dbt analytics tools** that turn operational data into reliable, decision-ready outputs — KPI dashboards, BI-ready exports, tested dbt models, and data-quality-checked reporting layers across FX and FinTech domains.
+
+I bring **15 years of UK operational experience** in FX, money transfer, reconciliation, and software platform support, applied directly to the FinTech and operational analytics domain of my portfolio projects.
+
+---
+
+## &nbsp;◈&nbsp; Analytics Workflow
+
+```
+┌─────────────┐     ┌─────────────────┐     ┌──────────────────┐     ┌──────────────┐     ┌─────────────┐
+│  RAW DATA   │────▶│  STAGING (SQL)  │────▶│  dbt TRANSFORM   │────▶│    MODELS    │────▶│  DASHBOARDS │
+│             │     │                 │     │                  │     │              │     │             │
+│ CSV Exports │     │ Clean & Type    │     │ Business Logic   │     │ Curated Data │     │ BI Exports  │
+│ APIs · Files│     │ Validate & Dedup│     │ Test & Document  │     │ Trusted Data │     │ KPI Reports │
+└─────────────┘     └─────────────────┘     └──────────────────┘     └──────────────┘     └─────────────┘
+       ▲                     ▲                        ▲                       ▲                    ▲
+  DataBridge           BakeOps SQL              bakeops-dbt             bakeops-dbt           BakeOps
+  Market API           Evidence Layer           staging models           mart layer          Intelligence
 ```
 
 ---
 
-## Portfolio Projects
+## &nbsp;▦&nbsp; Portfolio Projects
+
+### ◈ Featured — Analytics Engineering
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+**[bakeops-dbt](https://github.com/aminul-portfolio/bakeops-dbt)**
+
+`dbt Core` `DuckDB` `7 models` `26 tests` `v1.0.1` `staging → intermediate → mart`
+
+dbt and DuckDB analytics engineering project transforming BakeOps Intelligence CSV exports into tested product-performance marts. Preserves the BakeOps signature insight end-to-end across three implementations: Django → SQL evidence layer → dbt mart.
+
+Local DuckDB only — no cloud warehouse, no orchestration, no production claim.
+
+</td>
+<td width="35%" valign="top">
+
+**`mart_rank_inversion` output**
+
+```
+cake_name              Birthday Classic
+revenue_rank           1
+waste_adj_margin_rank  4
+margin_rank_gap        3
+rank_movement         -3
+has_rank_inversion     1
+action_flag            review
+```
+
+> Revenue rank #1 drops to margin rank #4 after waste-adjusted margin is applied. Rank inversion confirmed.
+
+</td>
+</tr>
+</table>
+
+---
+
+### ▦ Django Analytics Platform
+
+| Project | Description | Stack |
+|---|---|---|
+| **[BakeOps Intelligence](https://github.com/aminul-portfolio/bakeops-intelligence)** | Bakery operations analytics with KPI dashboards, gold-layer metric snapshots, BI-ready CSV exports, data-quality review, product profitability, ingredient risk, and waste analysis. | `Django` `Python` `Plotly` `gold-layer` `BI exports` |
+
+---
+
+### ▦ FinTech Analytics Suite
 
 | Project | Description | Key Evidence |
 |---|---|---|
-| [bakeops-dbt](https://github.com/aminul-portfolio/bakeops-dbt) | dbt + DuckDB analytics engineering project transforming BakeOps CSV exports into tested product-performance marts | 7 dbt models · 26 data tests · staging → intermediate → mart · v1.0.1 |
-| [BakeOps Intelligence](https://github.com/aminul-portfolio/bakeops-intelligence) | Django bakery operations analytics platform with KPI dashboards, gold-layer metric snapshots, BI-ready CSV exports, and a documented rank-inversion insight | Birthday Classic: revenue rank #1, margin rank #4 after waste adjustment |
-| [DataBridge Market API](https://github.com/aminul-portfolio/databridge-market-api) | Django market data ingestion platform with multi-source ETL workflows, normalised storage, and a read-only API layer | yfinance · ccxt · Twelve Data · run logging |
-| [TradeIntel 360](https://github.com/aminul-portfolio/tradeintel-360) | Post-trade performance analytics with a 17-metric KPI engine, configurable Excel/PDF exports, and session-driven analysis workflow | Pandas · Plotly · openpyxl · xhtml2pdf |
-| [MarketVista Dashboard](https://github.com/aminul-portfolio/marketvista-dashboard) | Market monitoring and analyst visibility layer with severity-ranked signals, watchlists, and threshold-style alerts | Django · Plotly · signal logic |
-| [RiskWise Planner](https://github.com/aminul-portfolio/riskwise-planner) | Pre-trade risk planning and scenario modelling with downside-aware decision support | Scenario comparison · capital-preservation framing |
+| **[DataBridge Market API](https://github.com/aminul-portfolio/databridge-market-api)** | Multi-source market data ingestion with ETL workflows, normalised storage, run logging, and a read-only API layer. | `yfinance` `ccxt` `TwelveData` `ETL` `REST API` |
+| **[TradeIntel 360](https://github.com/aminul-portfolio/tradeintel-360)** | Post-trade analytics with 17-metric KPI engine, configurable Excel exports with optional KPI sheet, and PDF reporting. | `Pandas` `Plotly` `17 KPIs` `openpyxl` |
+| **[MarketVista Dashboard](https://github.com/aminul-portfolio/marketvista-dashboard)** | Market monitoring layer with severity-ranked signals, watchlists, threshold alerts, and OHLC-backed asset inspection. | `Django` `Plotly` `signals` `watchlists` |
+| **[RiskWise Planner](https://github.com/aminul-portfolio/riskwise-planner)** | Pre-trade risk planning with Monte Carlo simulation, downside-aware scenario modelling, and capital-preservation decision support. | `Monte Carlo` `scenarios` `risk/reward` |
 
 ---
 
-## Technical Stack
+## &nbsp;◈&nbsp; Technical Stack
 
-| Category | Tools |
-|---|---|
-| Analytics Engineering | dbt Core · DuckDB · SQL · dimensional modelling |
-| Data Processing | Python · Pandas · NumPy · openpyxl |
-| Visualisation | Plotly · Chart.js · Django templates |
-| Backend | Django · Django ORM · REST APIs · management commands |
-| Reporting | Excel · Power Query · DAX · VBA · PDF exports |
-| Version Control | Git · GitHub · sprint-based delivery |
-| Domain | FX operations · money transfer · reconciliation · KPI reporting |
+| Category | Primary | Supporting |
+|---|---|---|
+| **Analytics Engineering** | `dbt Core` `DuckDB` `SQL` | dimensional modelling · data quality · mart design |
+| **Data Processing** | `Python` `Pandas` | NumPy · openpyxl · Plotly · Chart.js |
+| **Backend & APIs** | `Django` `Django ORM` | REST APIs · management commands · ETL workflows |
+| **Reporting & BI** | `Excel` `Power Query` | DAX · VBA · KPI dashboards · PDF exports |
+| **Delivery** | `Git` `GitHub` | sprint delivery · dbt tests · Django TestCase |
+| **Domain** | `FX operations` `FinTech` | money transfer · reconciliation · KPI reporting · AML |
 
 ---
 
-## Professional Background<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Aminul Islam — Data Analyst · BI Analyst · Junior Analytics Engineer</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-<style>
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{
-  --bg:#07080a;
-  --surface:#0d0f12;
-  --surface2:#131619;
-  --border:#1e2328;
-  --border2:#252a30;
-  --text:#e8eaed;
-  --muted:#8a919c;
-  --dim:#4a5260;
-  --accent:#00d4aa;
-  --accent2:#0091ff;
-  --accent3:#f59e0b;
-  --font-display:'Syne',sans-serif;
-  --font-body:'DM Sans',sans-serif;
-  --font-mono:'DM Mono',monospace;
-}
-html{scroll-behavior:smooth}
-body{background:var(--bg);color:var(--text);font-family:var(--font-body);font-size:15px;line-height:1.7;overflow-x:hidden}
+## &nbsp;◈&nbsp; Professional Background
 
-/* Grid background */
-body::before{
-  content:'';position:fixed;inset:0;
-  background-image:linear-gradient(var(--border) 1px,transparent 1px),linear-gradient(90deg,var(--border) 1px,transparent 1px);
-  background-size:60px 60px;
-  opacity:.35;pointer-events:none;z-index:0
-}
+<table>
+<tr>
+<td align="center" width="33%">
 
-/* Nav */
-nav{
-  position:fixed;top:0;left:0;right:0;z-index:100;
-  display:flex;align-items:center;justify-content:space-between;
-  padding:1rem 2.5rem;
-  background:rgba(7,8,10,.85);
-  backdrop-filter:blur(12px);
-  border-bottom:1px solid var(--border)
-}
-.nav-logo{font-family:var(--font-display);font-weight:800;font-size:1rem;letter-spacing:-.02em;color:var(--text)}
-.nav-logo span{color:var(--accent)}
-.nav-links{display:flex;gap:2rem;list-style:none}
-.nav-links a{color:var(--muted);text-decoration:none;font-size:.85rem;letter-spacing:.04em;text-transform:uppercase;font-weight:500;transition:color .2s}
-.nav-links a:hover{color:var(--text)}
-.nav-cta{
-  background:var(--accent);color:#000;font-family:var(--font-mono);
-  font-size:.78rem;font-weight:500;letter-spacing:.04em;
-  padding:.45rem 1rem;border-radius:4px;text-decoration:none;
-  transition:opacity .2s
-}
-.nav-cta:hover{opacity:.85}
+### £30k
+**Daily cash volumes managed**
+Acaelus Services Ltd
+FX & money transfer operations
+AML · audit-ready reconciliation
+In-house Excel cashflow platform
 
-/* Hero */
-.hero{
-  position:relative;z-index:1;
-  min-height:100vh;display:flex;align-items:center;
-  padding:8rem 2.5rem 4rem;max-width:1200px;margin:0 auto
-}
-.hero-inner{max-width:820px}
-.hero-tag{
-  display:inline-flex;align-items:center;gap:.5rem;
-  font-family:var(--font-mono);font-size:.75rem;color:var(--accent);
-  border:1px solid rgba(0,212,170,.25);background:rgba(0,212,170,.06);
-  padding:.3rem .75rem;border-radius:3px;margin-bottom:2rem;
-  letter-spacing:.06em
-}
-.hero-tag::before{content:'▶';font-size:.6rem}
-h1{
-  font-family:var(--font-display);font-size:clamp(3rem,7vw,5.5rem);
-  font-weight:800;line-height:1.0;letter-spacing:-.04em;margin-bottom:1.5rem
-}
-h1 .line2{color:var(--accent)}
-h1 .line3{color:var(--muted);font-weight:400}
-.hero-sub{
-  font-size:1.05rem;color:var(--muted);max-width:580px;
-  margin-bottom:2.5rem;line-height:1.75
-}
-.hero-sub strong{color:var(--text);font-weight:500}
-.hero-pills{display:flex;flex-wrap:wrap;gap:.6rem;margin-bottom:3rem}
-.pill{
-  font-family:var(--font-mono);font-size:.72rem;letter-spacing:.04em;
-  padding:.3rem .7rem;border-radius:3px;border:1px solid var(--border2);
-  color:var(--muted);background:var(--surface)
-}
-.pill-accent{border-color:rgba(0,212,170,.3);color:var(--accent);background:rgba(0,212,170,.06)}
-.hero-actions{display:flex;gap:1rem;flex-wrap:wrap}
-.btn-primary{
-  display:inline-flex;align-items:center;gap:.5rem;
-  background:var(--accent);color:#000;font-family:var(--font-mono);
-  font-size:.82rem;font-weight:500;letter-spacing:.04em;
-  padding:.65rem 1.4rem;border-radius:4px;text-decoration:none;transition:opacity .2s
-}
-.btn-primary:hover{opacity:.85}
-.btn-secondary{
-  display:inline-flex;align-items:center;gap:.5rem;
-  border:1px solid var(--border2);color:var(--text);font-family:var(--font-mono);
-  font-size:.82rem;letter-spacing:.04em;
-  padding:.65rem 1.4rem;border-radius:4px;text-decoration:none;
-  background:var(--surface);transition:border-color .2s,background .2s
-}
-.btn-secondary:hover{border-color:var(--dim);background:var(--surface2)}
+</td>
+<td align="center" width="33%">
 
-/* Stats strip */
-.stats-strip{
-  position:relative;z-index:1;
-  border-top:1px solid var(--border);border-bottom:1px solid var(--border);
-  background:var(--surface);
-  display:grid;grid-template-columns:repeat(4,1fr)
-}
-.stat-cell{
-  padding:1.75rem 2rem;border-right:1px solid var(--border);
-  display:flex;flex-direction:column;gap:.25rem
-}
-.stat-cell:last-child{border-right:none}
-.stat-num{
-  font-family:var(--font-display);font-size:2rem;font-weight:800;
-  letter-spacing:-.03em;color:var(--text)
-}
-.stat-num span{color:var(--accent)}
-.stat-label{font-family:var(--font-mono);font-size:.72rem;letter-spacing:.06em;color:var(--muted);text-transform:uppercase}
+### ~800
+**UK agents supported**
+Bliss Services Ltd
+Python-based sales platform
+Monthly KPI & performance reports
+User-to-developer bridge role
 
-/* Pipeline */
-.section{position:relative;z-index:1;padding:6rem 2.5rem;max-width:1200px;margin:0 auto}
-.section-tag{
-  font-family:var(--font-mono);font-size:.72rem;letter-spacing:.1em;
-  text-transform:uppercase;color:var(--accent);margin-bottom:1rem
-}
-.section-title{
-  font-family:var(--font-display);font-size:clamp(1.8rem,4vw,2.8rem);
-  font-weight:700;letter-spacing:-.03em;margin-bottom:.75rem
-}
-.section-sub{color:var(--muted);max-width:540px;font-size:.95rem}
+</td>
+<td align="center" width="33%">
 
-.pipeline{
-  display:flex;align-items:stretch;gap:0;
-  border:1px solid var(--border);border-radius:8px;overflow:hidden;
-  margin-top:3rem
-}
-.pipe-node{
-  flex:1;padding:1.75rem 1.5rem;background:var(--surface);
-  border-right:1px solid var(--border);position:relative;
-  transition:background .2s
-}
-.pipe-node:last-child{border-right:none}
-.pipe-node:hover{background:var(--surface2)}
-.pipe-icon{
-  font-size:1.1rem;margin-bottom:.75rem;
-  width:36px;height:36px;border-radius:6px;
-  display:flex;align-items:center;justify-content:center;
-}
-.pipe-icon-raw{background:rgba(74,82,96,.2);color:var(--dim)}
-.pipe-icon-stage{background:rgba(0,145,255,.1);color:var(--accent2)}
-.pipe-icon-dbt{background:rgba(245,158,11,.1);color:var(--accent3)}
-.pipe-icon-model{background:rgba(0,212,170,.1);color:var(--accent)}
-.pipe-icon-dash{background:rgba(138,145,156,.1);color:var(--muted)}
-.pipe-name{font-family:var(--font-display);font-size:.95rem;font-weight:700;margin-bottom:.3rem}
-.pipe-detail{font-family:var(--font-mono);font-size:.72rem;color:var(--muted);letter-spacing:.02em}
-.pipe-arrow{
-  position:absolute;right:-10px;top:50%;transform:translateY(-50%);
-  z-index:2;width:20px;height:20px;
-  background:var(--bg);border:1px solid var(--border);
-  border-radius:50%;display:flex;align-items:center;justify-content:center;
-  font-size:.65rem;color:var(--dim)
-}
-.pipe-node:last-child .pipe-arrow{display:none}
+### ILR
+**Full UK work authorisation**
+No sponsorship required
+Available immediately
+London · Remote · Hybrid
+Within 90 min of Purley
 
-/* Projects */
-.projects-grid{
-  display:grid;grid-template-columns:1fr 1fr;gap:1px;
-  border:1px solid var(--border);border-radius:8px;overflow:hidden;
-  margin-top:3rem;background:var(--border)
-}
-.project-card{
-  background:var(--surface);padding:2rem;
-  transition:background .2s;cursor:default;
-  display:flex;flex-direction:column;gap:1rem
-}
-.project-card:hover{background:var(--surface2)}
-.project-card.featured{
-  grid-column:1/-1;
-  display:grid;grid-template-columns:1fr auto;gap:2rem;align-items:start
-}
-.project-header{display:flex;align-items:flex-start;justify-content:space-between;gap:1rem}
-.project-tag{
-  font-family:var(--font-mono);font-size:.68rem;letter-spacing:.06em;
-  text-transform:uppercase;padding:.2rem .5rem;border-radius:3px;
-  border:1px solid;flex-shrink:0
-}
-.tag-ae{border-color:rgba(0,212,170,.3);color:var(--accent);background:rgba(0,212,170,.06)}
-.tag-django{border-color:rgba(0,145,255,.25);color:var(--accent2);background:rgba(0,145,255,.06)}
-.tag-fintech{border-color:rgba(245,158,11,.25);color:var(--accent3);background:rgba(245,158,11,.06)}
-.project-name{
-  font-family:var(--font-display);font-size:1.25rem;font-weight:700;
-  letter-spacing:-.02em;color:var(--text);text-decoration:none;
-  transition:color .2s
-}
-.project-name:hover{color:var(--accent)}
-.project-desc{color:var(--muted);font-size:.88rem;line-height:1.65}
-.project-meta{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.5rem}
-.meta-pill{
-  font-family:var(--font-mono);font-size:.68rem;letter-spacing:.03em;
-  color:var(--dim);background:rgba(255,255,255,.03);
-  border:1px solid var(--border);padding:.2rem .5rem;border-radius:3px
-}
-.insight-box{
-  background:var(--bg);border:1px solid var(--border2);
-  border-radius:6px;padding:1.25rem;font-family:var(--font-mono);font-size:.78rem;
-  min-width:260px
-}
-.insight-label{color:var(--dim);font-size:.68rem;letter-spacing:.06em;text-transform:uppercase;margin-bottom:.75rem}
-.insight-row{display:flex;justify-content:space-between;padding:.35rem 0;border-bottom:1px solid var(--border)}
-.insight-row:last-child{border-bottom:none}
-.insight-key{color:var(--muted)}
-.insight-val{color:var(--accent);font-weight:500}
-.insight-val.warn{color:var(--accent3)}
-.project-link{
-  display:inline-flex;align-items:center;gap:.35rem;
-  font-family:var(--font-mono);font-size:.75rem;color:var(--muted);
-  text-decoration:none;letter-spacing:.03em;margin-top:auto;
-  transition:color .2s
-}
-.project-link:hover{color:var(--accent)}
-.project-link::after{content:'↗';font-size:.85rem}
+</td>
+</tr>
+</table>
 
-/* Stack */
-.stack-grid{
-  display:grid;grid-template-columns:repeat(3,1fr);gap:1px;
-  border:1px solid var(--border);border-radius:8px;overflow:hidden;
-  margin-top:3rem;background:var(--border)
-}
-.stack-cell{background:var(--surface);padding:1.5rem}
-.stack-cell-title{
-  font-family:var(--font-mono);font-size:.7rem;letter-spacing:.08em;
-  text-transform:uppercase;color:var(--accent);margin-bottom:.75rem
-}
-.stack-items{display:flex;flex-wrap:wrap;gap:.4rem}
-.stack-item{
-  font-family:var(--font-mono);font-size:.75rem;color:var(--muted);
-  border:1px solid var(--border);padding:.2rem .55rem;border-radius:3px;
-  background:var(--bg)
-}
-.stack-item.highlight{border-color:rgba(0,212,170,.3);color:var(--accent);background:rgba(0,212,170,.05)}
+---
 
-/* Background */
-.bg-section{
-  position:relative;z-index:1;
-  border-top:1px solid var(--border);
-  background:var(--surface);padding:5rem 2.5rem
-}
-.bg-inner{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:center}
-.bg-cards{display:flex;flex-direction:column;gap:1rem}
-.bg-card{
-  border:1px solid var(--border);background:var(--bg);
-  border-radius:6px;padding:1.25rem 1.5rem;
-  display:grid;grid-template-columns:auto 1fr;gap:1rem;align-items:start
-}
-.bg-card-num{
-  font-family:var(--font-display);font-size:1.5rem;font-weight:800;
-  color:var(--accent);letter-spacing:-.03em;line-height:1
-}
-.bg-card-text strong{display:block;font-size:.88rem;font-weight:500;margin-bottom:.2rem}
-.bg-card-text p{font-size:.82rem;color:var(--muted)}
+## &nbsp;◈&nbsp; Target Roles
 
-/* Footer */
-footer{
-  position:relative;z-index:1;
-  border-top:1px solid var(--border);
-  padding:3rem 2.5rem;
-  display:flex;align-items:center;justify-content:space-between;
-  max-width:1200px;margin:0 auto
-}
-.footer-left{color:var(--dim);font-family:var(--font-mono);font-size:.78rem}
-.footer-links{display:flex;gap:1.5rem}
-.footer-links a{
-  color:var(--muted);text-decoration:none;
-  font-family:var(--font-mono);font-size:.78rem;
-  transition:color .2s
-}
-.footer-links a:hover{color:var(--accent)}
-.footer-claim{
-  font-family:var(--font-mono);font-size:.68rem;color:var(--dim);
-  border:1px solid var(--border);border-radius:4px;padding:.4rem .75rem;
-  max-width:1200px;margin:0 auto 2rem;padding-left:2.5rem
-}
+```
+Data Analyst          BI Analyst          Reporting Analyst
+Junior Analytics Engineer          FinTech Data Analyst
+Operational Reporting Analyst          Analytics Engineering pathway
+```
 
-/* Animations */
-@keyframes fadeUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
-.hero-inner>*{animation:fadeUp .6s ease both}
-.hero-tag{animation-delay:.05s}
-h1{animation-delay:.15s}
-.hero-sub{animation-delay:.25s}
-.hero-pills{animation-delay:.3s}
-.hero-actions{animation-delay:.35s}
+---
 
-/* Responsive */
-@media(max-width:900px){
-  .stats-strip{grid-template-columns:1fr 1fr}
-  .stat-cell:nth-child(2){border-right:none}
-  .stat-cell:nth-child(3){border-top:1px solid var(--border)}
-  .pipeline{flex-direction:column}
-  .pipe-node{border-right:none;border-bottom:1px solid var(--border)}
-  .pipe-node:last-child{border-bottom:none}
-  .pipe-arrow{display:none}
-  .projects-grid{grid-template-columns:1fr}
-  .project-card.featured{grid-template-columns:1fr}
-  .stack-grid{grid-template-columns:1fr}
-  .bg-inner{grid-template-columns:1fr}
-  nav{padding:1rem 1.25rem}
-  .nav-links{display:none}
-  .hero{padding:7rem 1.25rem 3rem}
-  .section{padding:4rem 1.25rem}
-  footer{flex-direction:column;gap:1.5rem;align-items:flex-start}
-  .footer-claim{padding-left:1.25rem}
-}
-</style>
-</head>
-<body>
+<div align="center">
 
-<nav>
-  <span class="nav-logo">aminul<span>.</span>portfolio</span>
-  <ul class="nav-links">
-    <li><a href="#pipeline">Pipeline</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#stack">Stack</a></li>
-    <li><a href="#background">Background</a></li>
-  </ul>
-  <a class="nav-cta" href="mailto:aminulislamkhan.tech@gmail.com">get in touch ↗</a>
-</nav>
+[![Portfolio](https://img.shields.io/badge/◈_VIEW_FULL_PORTFOLIO_SITE-00d4aa?style=for-the-badge&logoColor=000000)](https://aminul-portfolio.github.io)
 
-<!-- HERO -->
-<section class="hero">
-  <div class="hero-inner">
-    <span class="hero-tag">UK-based · Full work authorisation · Open to roles</span>
-    <h1>
-      Aminul Islam<br>
-      <span class="line2">Data Analyst</span><br>
-      <span class="line3">BI · Analytics Engineering</span>
-    </h1>
-    <p class="hero-sub">
-      I build <strong>Python, Django, SQL, and dbt analytics tools</strong> that turn operational data into
-      reliable, decision-ready outputs — KPI dashboards, BI-ready exports, tested dbt models,
-      and data-quality-checked reporting layers across <strong>FX and FinTech domains.</strong>
-    </p>
-    <div class="hero-pills">
-      <span class="pill pill-accent">Python</span>
-      <span class="pill pill-accent">SQL</span>
-      <span class="pill pill-accent">dbt</span>
-      <span class="pill pill-accent">Django</span>
-      <span class="pill pill-accent">Excel</span>
-      <span class="pill">Pandas</span>
-      <span class="pill">Plotly</span>
-      <span class="pill">Power Query</span>
-      <span class="pill">DAX</span>
-      <span class="pill">DuckDB</span>
-    </div>
-    <div class="hero-actions">
-      <a class="btn-primary" href="https://github.com/aminul-portfolio" target="_blank">View GitHub portfolio</a>
-      <a class="btn-secondary" href="https://linkedin.com/in/aminul-islama71a871a2" target="_blank">LinkedIn profile</a>
-    </div>
-  </div>
-</section>
-
-<!-- STATS -->
-<div class="stats-strip">
-  <div class="stat-cell">
-    <span class="stat-num">7<span> models</span></span>
-    <span class="stat-label">bakeops-dbt · dbt + DuckDB</span>
-  </div>
-  <div class="stat-cell">
-    <span class="stat-num">26<span> tests</span></span>
-    <span class="stat-label">data tests · all passing</span>
-  </div>
-  <div class="stat-cell">
-    <span class="stat-num">15<span> yrs</span></span>
-    <span class="stat-label">UK operational experience</span>
-  </div>
-  <div class="stat-cell">
-    <span class="stat-num">6<span>+</span></span>
-    <span class="stat-label">portfolio projects · public</span>
-  </div>
 </div>
 
-<!-- PIPELINE -->
-<section class="section" id="pipeline">
-  <p class="section-tag">// analytics workflow</p>
-  <h2 class="section-title">From raw data<br>to business insight</h2>
-  <p class="section-sub">The same pattern across every project — source inspection, clean transformation, tested models, decision-ready output.</p>
+---
 
-  <div class="pipeline">
-    <div class="pipe-node">
-      <div class="pipe-icon pipe-icon-raw">⬡</div>
-      <p class="pipe-name">Raw Data</p>
-      <p class="pipe-detail">Sources / CSV Exports<br>APIs / Files / Logs</p>
-      <div class="pipe-arrow">›</div>
-    </div>
-    <div class="pipe-node">
-      <div class="pipe-icon pipe-icon-stage">{ }</div>
-      <p class="pipe-name">Staging (SQL)</p>
-      <p class="pipe-detail">Clean & Standardise<br>Validate & Type</p>
-      <div class="pipe-arrow">›</div>
-    </div>
-    <div class="pipe-node">
-      <div class="pipe-icon pipe-icon-dbt">✕</div>
-      <p class="pipe-name">dbt Transform</p>
-      <p class="pipe-detail">Business Logic<br>Test & Document</p>
-      <div class="pipe-arrow">›</div>
-    </div>
-    <div class="pipe-node">
-      <div class="pipe-icon pipe-icon-model">◈</div>
-      <p class="pipe-name">Models</p>
-      <p class="pipe-detail">Curated Data<br>Trusted · Consistent</p>
-      <div class="pipe-arrow">›</div>
-    </div>
-    <div class="pipe-node">
-      <div class="pipe-icon pipe-icon-dash">▦</div>
-      <p class="pipe-name">Dashboards</p>
-      <p class="pipe-detail">Business Insight<br>BI-ready Exports</p>
-    </div>
-  </div>
-</section>
+<div align="center">
 
-<!-- PROJECTS -->
-<section class="section" id="projects" style="padding-top:0">
-  <p class="section-tag">// portfolio projects</p>
-  <h2 class="section-title">Analytics engineering<br>evidence base</h2>
-  <p class="section-sub">Each project is a public, tested, claim-safe portfolio build using seeded or public demo data.</p>
+<sub>All portfolio projects use seeded demo data. bakeops-dbt is a local DuckDB project — no cloud warehouse, no orchestration, no production deployment or live customers.</sub>
 
-  <div class="projects-grid">
-
-    <!-- Featured -->
-    <div class="project-card featured">
-      <div>
-        <div class="project-header">
-          <a class="project-name" href="https://github.com/aminul-portfolio/bakeops-dbt" target="_blank">bakeops-dbt</a>
-          <span class="project-tag tag-ae">Analytics Engineering</span>
-        </div>
-        <p class="project-desc" style="margin-top:.75rem">
-          dbt and DuckDB analytics engineering project that transforms BakeOps Intelligence CSV exports
-          into tested product-performance marts across staging, intermediate, and mart layers.
-          Preserves the BakeOps signature insight end-to-end.
-          Local DuckDB only — no cloud warehouse, no orchestration.
-        </p>
-        <div class="project-meta">
-          <span class="meta-pill">dbt Core</span>
-          <span class="meta-pill">DuckDB</span>
-          <span class="meta-pill">7 models</span>
-          <span class="meta-pill">26 tests</span>
-          <span class="meta-pill">v1.0.1</span>
-          <span class="meta-pill">staging → intermediate → mart</span>
-        </div>
-        <a class="project-link" href="https://github.com/aminul-portfolio/bakeops-dbt" target="_blank">github.com/aminul-portfolio/bakeops-dbt</a>
-      </div>
-      <div class="insight-box">
-        <p class="insight-label">Signature insight</p>
-        <div class="insight-row"><span class="insight-key">Product</span><span class="insight-val">Birthday Classic</span></div>
-        <div class="insight-row"><span class="insight-key">Revenue rank</span><span class="insight-val">#1</span></div>
-        <div class="insight-row"><span class="insight-key">Margin rank</span><span class="insight-val warn">#4</span></div>
-        <div class="insight-row"><span class="insight-key">Rank gap</span><span class="insight-val warn">3 positions</span></div>
-        <div class="insight-row"><span class="insight-key">Inversion</span><span class="insight-val">confirmed</span></div>
-      </div>
-    </div>
-
-    <!-- BakeOps -->
-    <div class="project-card">
-      <div class="project-header">
-        <a class="project-name" href="https://github.com/aminul-portfolio/bakeops-intelligence" target="_blank">BakeOps Intelligence</a>
-        <span class="project-tag tag-django">Django</span>
-      </div>
-      <p class="project-desc">Django analytics platform with KPI dashboards, gold-layer metric snapshots, BI-ready CSV exports, data-quality review, product profitability, ingredient risk, and waste analysis.</p>
-      <div class="project-meta">
-        <span class="meta-pill">Django</span>
-        <span class="meta-pill">Python</span>
-        <span class="meta-pill">KPI dashboards</span>
-        <span class="meta-pill">gold-layer snapshots</span>
-        <span class="meta-pill">BI exports</span>
-      </div>
-      <a class="project-link" href="https://github.com/aminul-portfolio/bakeops-intelligence" target="_blank">view on GitHub</a>
-    </div>
-
-    <!-- DataBridge -->
-    <div class="project-card">
-      <div class="project-header">
-        <a class="project-name" href="https://github.com/aminul-portfolio/databridge-market-api" target="_blank">DataBridge Market API</a>
-        <span class="project-tag tag-fintech">FinTech</span>
-      </div>
-      <p class="project-desc">Multi-source market data ingestion platform with ETL workflows, normalised storage, run logging, and a read-only API layer for analyst-facing consumption.</p>
-      <div class="project-meta">
-        <span class="meta-pill">yfinance</span>
-        <span class="meta-pill">ccxt</span>
-        <span class="meta-pill">TwelveData</span>
-        <span class="meta-pill">ETL</span>
-        <span class="meta-pill">REST API</span>
-      </div>
-      <a class="project-link" href="https://github.com/aminul-portfolio/databridge-market-api" target="_blank">view on GitHub</a>
-    </div>
-
-    <!-- TradeIntel -->
-    <div class="project-card">
-      <div class="project-header">
-        <a class="project-name" href="https://github.com/aminul-portfolio/tradeintel-360" target="_blank">TradeIntel 360</a>
-        <span class="project-tag tag-fintech">FinTech</span>
-      </div>
-      <p class="project-desc">Post-trade performance analytics with a 17-metric KPI engine, session-driven analysis, configurable Excel exports with optional KPI sheet, and PDF reporting via xhtml2pdf.</p>
-      <div class="project-meta">
-        <span class="meta-pill">Pandas</span>
-        <span class="meta-pill">Plotly</span>
-        <span class="meta-pill">17 KPIs</span>
-        <span class="meta-pill">Excel</span>
-        <span class="meta-pill">PDF</span>
-      </div>
-      <a class="project-link" href="https://github.com/aminul-portfolio/tradeintel-360" target="_blank">view on GitHub</a>
-    </div>
-
-    <!-- MarketVista + RiskWise -->
-    <div class="project-card">
-      <div class="project-header">
-        <a class="project-name" href="https://github.com/aminul-portfolio/marketvista-dashboard" target="_blank">MarketVista Dashboard</a>
-        <span class="project-tag tag-fintech">FinTech</span>
-      </div>
-      <p class="project-desc">Market monitoring and analyst visibility layer with severity-ranked signals, watchlists, threshold alerts, and OHLC-backed asset inspection across FX and equity data.</p>
-      <div class="project-meta">
-        <span class="meta-pill">Django</span>
-        <span class="meta-pill">Plotly</span>
-        <span class="meta-pill">signal logic</span>
-        <span class="meta-pill">watchlists</span>
-      </div>
-      <a class="project-link" href="https://github.com/aminul-portfolio/marketvista-dashboard" target="_blank">view on GitHub</a>
-    </div>
-
-    <div class="project-card">
-      <div class="project-header">
-        <a class="project-name" href="https://github.com/aminul-portfolio/riskwise-planner" target="_blank">RiskWise Planner</a>
-        <span class="project-tag tag-fintech">FinTech</span>
-      </div>
-      <p class="project-desc">Pre-trade risk planning and scenario modelling with Monte Carlo simulation, downside-aware review, and capital-preservation decision support for trading workflows.</p>
-      <div class="project-meta">
-        <span class="meta-pill">Monte Carlo</span>
-        <span class="meta-pill">scenario modelling</span>
-        <span class="meta-pill">risk/reward</span>
-        <span class="meta-pill">Django</span>
-      </div>
-      <a class="project-link" href="https://github.com/aminul-portfolio/riskwise-planner" target="_blank">view on GitHub</a>
-    </div>
-
-  </div>
-</section>
-
-<!-- STACK -->
-<section class="section" id="stack" style="padding-top:0">
-  <p class="section-tag">// technical stack</p>
-  <h2 class="section-title">Tools and technologies</h2>
-
-  <div class="stack-grid">
-    <div class="stack-cell">
-      <p class="stack-cell-title">Analytics Engineering</p>
-      <div class="stack-items">
-        <span class="stack-item highlight">dbt Core</span>
-        <span class="stack-item highlight">DuckDB</span>
-        <span class="stack-item highlight">SQL</span>
-        <span class="stack-item">dimensional modelling</span>
-        <span class="stack-item">data quality</span>
-        <span class="stack-item">mart design</span>
-      </div>
-    </div>
-    <div class="stack-cell">
-      <p class="stack-cell-title">Data Processing</p>
-      <div class="stack-items">
-        <span class="stack-item highlight">Python</span>
-        <span class="stack-item highlight">Pandas</span>
-        <span class="stack-item">NumPy</span>
-        <span class="stack-item">openpyxl</span>
-        <span class="stack-item">Plotly</span>
-        <span class="stack-item">Chart.js</span>
-      </div>
-    </div>
-    <div class="stack-cell">
-      <p class="stack-cell-title">Backend & APIs</p>
-      <div class="stack-items">
-        <span class="stack-item highlight">Django</span>
-        <span class="stack-item">Django ORM</span>
-        <span class="stack-item">REST APIs</span>
-        <span class="stack-item">management commands</span>
-        <span class="stack-item">ETL workflows</span>
-      </div>
-    </div>
-    <div class="stack-cell">
-      <p class="stack-cell-title">Reporting & BI</p>
-      <div class="stack-items">
-        <span class="stack-item highlight">Excel</span>
-        <span class="stack-item">Power Query</span>
-        <span class="stack-item">DAX</span>
-        <span class="stack-item">VBA</span>
-        <span class="stack-item">KPI dashboards</span>
-        <span class="stack-item">PDF exports</span>
-      </div>
-    </div>
-    <div class="stack-cell">
-      <p class="stack-cell-title">Delivery & Governance</p>
-      <div class="stack-items">
-        <span class="stack-item">Git · GitHub</span>
-        <span class="stack-item">sprint-based delivery</span>
-        <span class="stack-item">dbt tests</span>
-        <span class="stack-item">Django TestCase</span>
-        <span class="stack-item">claim-safe docs</span>
-      </div>
-    </div>
-    <div class="stack-cell">
-      <p class="stack-cell-title">Domain</p>
-      <div class="stack-items">
-        <span class="stack-item">FX operations</span>
-        <span class="stack-item">money transfer</span>
-        <span class="stack-item">reconciliation</span>
-        <span class="stack-item">KPI reporting</span>
-        <span class="stack-item">AML procedures</span>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- BACKGROUND -->
-<div class="bg-section" id="background">
-  <div class="bg-inner">
-    <div>
-      <p class="section-tag">// professional background</p>
-      <h2 class="section-title" style="margin-bottom:1rem">15 years UK operational<br>experience</h2>
-      <p style="color:var(--muted);font-size:.95rem;line-height:1.75;max-width:480px">
-        Before the portfolio transition I worked across FX operations, money transfer, and software platform support —
-        building real reconciliation systems, producing monthly KPI reports, and bridging non-technical users with
-        software development teams. That domain knowledge is applied directly to my FinTech analytics projects.
-      </p>
-    </div>
-    <div class="bg-cards">
-      <div class="bg-card">
-        <span class="bg-card-num">£30k</span>
-        <div class="bg-card-text">
-          <strong>Daily cash volumes managed</strong>
-          <p>Acaelus Services Ltd — multi-currency FX and remittance operations with audit-ready reconciliation controls</p>
-        </div>
-      </div>
-      <div class="bg-card">
-        <span class="bg-card-num">800</span>
-        <div class="bg-card-text">
-          <strong>Agents supported UK-wide</strong>
-          <p>Bliss Services Ltd — Python-based sales platform with monthly KPI reporting and developer–user bridge role</p>
-        </div>
-      </div>
-      <div class="bg-card">
-        <span class="bg-card-num">ILR</span>
-        <div class="bg-card-text">
-          <strong>Full UK work authorisation</strong>
-          <p>No sponsorship required — available immediately for Data Analyst, BI Analyst, and Junior Analytics Engineer roles</p>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
 
-<!-- FOOTER -->
-<p class="footer-claim">
-  ⚠ All portfolio projects use seeded demo data. bakeops-dbt is a local DuckDB project — no cloud warehouse, no orchestration, no production deployment.
-</p>
-<footer>
-  <span class="footer-left">© 2026 Aminul Islam · London, UK</span>
-  <div class="footer-links">
-    <a href="https://github.com/aminul-portfolio" target="_blank">GitHub</a>
-    <a href="https://linkedin.com/in/aminul-islama71a871a2" target="_blank">LinkedIn</a>
-    <a href="mailto:aminulislamkhan.tech@gmail.com">Email</a>
-  </div>
-</footer>
+<div align="center">
 
-</body>
-</html>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4aa&height=80&section=footer" width="100%"/>
 
-
-15 years of UK operational experience across FX and money transfer
-(**Acaelus Services Ltd** — daily cash volumes around £30,000, in-house Excel
-reconciliation platform, AML controls) and software platform support
-(**Blissservices Ltd** — approximately 800-agent UK network, Python-based
-platform support, monthly KPI reporting).
-
----
-
-## Target Roles
-
-Actively targeting **Data Analyst**, **BI Analyst**, **Reporting Analyst**,
-and **Junior Analytics Engineer** roles in the UK — particularly in FinTech,
-financial services, and operational reporting environments.
-
----
-
-## Links
-
-- 🔗 LinkedIn: [linkedin.com/in/aminul-islam-a71a871a2](https://www.linkedin.com/in/aminul-islam-a71a871a2)
-- 📁 GitHub: [github.com/aminul-portfolio](https://github.com/aminul-portfolio)
-- 📧 aminulislamkhan.tech@gmail.com
-
----
-
-> All portfolio projects are self-directed, evidence-based builds using
-> seeded or public demo data. bakeops-dbt uses local DuckDB only — no
-> cloud warehouse, no orchestration, no production deployment.
-[aminul_portfolio_site.html](https://github.com/user-attachments/files/28668849/aminul_portfolio_site.html)
+</div>
