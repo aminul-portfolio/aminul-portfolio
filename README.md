@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0c12,141720,0a0c12&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0c12,1a1e28,0a0c12&height=4&section=header" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 <a href="https://aminul-portfolio.github.io">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0a0c12&height=200&section=header&text=AMINUL%20ISLAM&fontSize=52&fontColor=e8d5a3&fontAlignY=45&desc=Data%20Analyst%20%C2%B7%20BI%20Analyst%20%C2%B7%20Junior%20Analytics%20Engineer&descSize=16&descAlignY=68&descColor=7a8799&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0a0c12&height=220&section=header&text=AMINUL%20ISLAM&fontSize=56&fontColor=e8d5a3&fontAlignY=42&desc=Data%20Analyst%20%C2%B7%20BI%20Analyst%20%C2%B7%20Junior%20Analytics%20Engineer&descSize=17&descAlignY=62&descColor=7a8799&animation=fadeIn" width="100%"/>
 </a>
 </div>
 
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![◈ PORTFOLIO SITE](https://img.shields.io/badge/◈_PORTFOLIO_SITE-e8d5a3?style=for-the-badge&logoColor=0a0c12&labelColor=e8d5a3)](https://aminul-portfolio.github.io)&nbsp;&nbsp;
+[![◈ PORTFOLIO SITE](https://img.shields.io/badge/◈_PORTFOLIO_SITE-e8d5a3?style=for-the-badge&logoColor=0a0c12)](https://aminul-portfolio.github.io)&nbsp;&nbsp;
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aminul-islam-a71a871a2)&nbsp;&nbsp;
 [![EMAIL](https://img.shields.io/badge/EMAIL-0a0c12?style=for-the-badge&logo=gmail&logoColor=e8d5a3)](https://mail.google.com/mail/?view=cm&to=aminulislamkhan.tech@gmail.com)
 
@@ -39,20 +39,20 @@
 
 <div align="center">
 
-![London UK](https://img.shields.io/badge/📍_London,_UK-1a1e28?style=flat-square&logoColor=e8d5a3)&nbsp;
-![Work Auth](https://img.shields.io/badge/✓_Full_UK_Work_Authorisation-1a1e28?style=flat-square&logoColor=e8d5a3)&nbsp;
-![No Sponsorship](https://img.shields.io/badge/No_Sponsorship_Required-1a1e28?style=flat-square&logoColor=e8d5a3)&nbsp;
-![Open to Work](https://img.shields.io/badge/Open_to_Roles-e8d5a3?style=flat-square&logoColor=0a0c12&color=e8d5a3&labelColor=0a0c12)
+![London](https://img.shields.io/badge/📍_London,_UK-1a1e28?style=flat-square)&nbsp;
+![Auth](https://img.shields.io/badge/✓_Full_UK_Work_Authorisation-1a1e28?style=flat-square)&nbsp;
+![Sponsorship](https://img.shields.io/badge/No_Sponsorship_Required-1a1e28?style=flat-square)&nbsp;
+![Status](https://img.shields.io/badge/●_Open_to_Roles-e8d5a3?style=flat-square&logoColor=0a0c12&color=1a1e28&labelColor=0a0c12)
 
 </div>
 
-<br/>
+<br/><br/>
 
----
+<!---------------------------------------------------------------------------->
+<!--  SECTION 01 — ABOUT                                                    -->
+<!---------------------------------------------------------------------------->
 
-<br/>
-
-## 01 &nbsp;/&nbsp; About
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0c12&height=64&text=%2001%20%2F%20About&fontSize=20&fontColor=e8d5a3&fontAlign=6&fontAlignY=54&desc=15%20years%20UK%20operational%20experience%20%C2%B7%20Python%20%C2%B7%20Django%20%C2%B7%20SQL%20%C2%B7%20dbt%20%C2%B7%20FX%20%26%20FinTech&descSize=11&descColor=556070&descAlign=50&descAlignY=82" width="100%"/>
 
 <br/>
 
@@ -60,7 +60,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### &nbsp;The Work
+#### &nbsp;The Work
 
 I build **Python, Django, SQL, and dbt analytics tools** that transform operational data into reliable, decision-ready outputs.
 
@@ -76,28 +76,29 @@ The result is analytics infrastructure that a hiring manager, a teammate, or a s
 <br/>
 
 > *"Revenue rank #1 doesn't mean strongest product — Birthday Classic drops to margin rank #4 after waste-adjusted margin is applied."*
+>
 > — BakeOps Intelligence · bakeops-dbt · SQL Evidence Layer
 
 </td>
 <td width="42%" valign="top">
 
-### &nbsp;The Evidence
+#### &nbsp;The Evidence
 
 <br/>
 
-![15 Years](https://img.shields.io/badge/15_Years-UK_Operational_Experience-0a0c12?style=flat-square&logoColor=e8d5a3&labelColor=1a1e28&color=0a0c12)
+![15 Years](https://img.shields.io/badge/15_Years-UK_Operational_Experience-0a0c12?style=flat-square&labelColor=1a1e28)
 
-![£30k](https://img.shields.io/badge/£30k-Daily_Cash_Volumes_Managed-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+![£30k](https://img.shields.io/badge/£30k-Daily_Cash_Volumes_Managed-0a0c12?style=flat-square&labelColor=1a1e28)
 
-![800 Agents](https://img.shields.io/badge/~800-UK_Agents_Supported-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+![800](https://img.shields.io/badge/~800-UK_Agents_Supported-0a0c12?style=flat-square&labelColor=1a1e28)
 
-![828 Tests](https://img.shields.io/badge/828-Automated_Tests_(CareerFunnel)-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+![828 Tests](https://img.shields.io/badge/828-Automated_Tests_(CareerFunnel)-0a0c12?style=flat-square&labelColor=1a1e28)
 
-![26 Tests](https://img.shields.io/badge/26-dbt_Data_Tests_(bakeops--dbt)-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+![26 Tests](https://img.shields.io/badge/26-dbt_Data_Tests_(bakeops--dbt)-0a0c12?style=flat-square&labelColor=1a1e28)
 
-![7 Models](https://img.shields.io/badge/7-dbt_Models_(staging_→_mart)-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+![7 Models](https://img.shields.io/badge/7-dbt_Models_(staging_→_mart)-0a0c12?style=flat-square&labelColor=1a1e28)
 
-![6 Projects](https://img.shields.io/badge/6+-Public_Portfolio_Projects-0a0c12?style=flat-square&labelColor=1a1e28&color=0a0c12)
+![6+ Projects](https://img.shields.io/badge/6%2B-Public_Portfolio_Projects-0a0c12?style=flat-square&labelColor=1a1e28)
 
 <br/>
 
@@ -129,13 +130,13 @@ No sponsorship required
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
----
+<!---------------------------------------------------------------------------->
+<!--  SECTION 02 — ANALYTICS PIPELINE                                       -->
+<!---------------------------------------------------------------------------->
 
-<br/>
-
-## 02 &nbsp;/&nbsp; Analytics Pipeline
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0c12&height=64&text=%2002%20%2F%20Analytics%20Pipeline&fontSize=20&fontColor=e8d5a3&fontAlign=9&fontAlignY=54&desc=Raw%20Data%20%E2%86%92%20Staging%20(SQL)%20%E2%86%92%20dbt%20Transform%20%E2%86%92%20Models%20%E2%86%92%20Dashboards&descSize=11&descColor=556070&descAlign=50&descAlignY=82" width="100%"/>
 
 <br/>
 
@@ -155,13 +156,13 @@ No sponsorship required
 
 </div>
 
-<br/>
+<br/><br/>
 
----
+<!---------------------------------------------------------------------------->
+<!--  SECTION 03 — PORTFOLIO PROJECTS                                       -->
+<!---------------------------------------------------------------------------->
 
-<br/>
-
-## 03 &nbsp;/&nbsp; Portfolio Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0c12&height=64&text=%2003%20%2F%20Portfolio%20Projects&fontSize=20&fontColor=e8d5a3&fontAlign=9&fontAlignY=54&desc=6%2B%20public%20projects%20%C2%B7%20Analytics%20Engineering%20%C2%B7%20Django%20%C2%B7%20FinTech%20%C2%B7%20all%20claim-safe&descSize=11&descColor=556070&descAlign=50&descAlignY=82" width="100%"/>
 
 <br/>
 
@@ -195,7 +196,7 @@ Django app  ──▶  SQL evidence layer  ──▶  dbt mart
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/view_repository_↗-e8d5a3?style=flat-square&logoColor=0a0c12)](https://github.com/aminul-portfolio/bakeops-dbt)
+[![View Repository ↗](https://img.shields.io/badge/view_repository_↗-e8d5a3?style=flat-square&logoColor=0a0c12)](https://github.com/aminul-portfolio/bakeops-dbt)
 
 </td>
 <td width="42%" valign="top">
@@ -213,11 +214,11 @@ FROM   mart_rank_inversion;
 ```
 
 ```
-┌────────────────────┬──────────────┬───────────────────────────┐
-│ cake_name          │ revenue_rank │ waste_adjusted_margin_rank │
-├────────────────────┼──────────────┼───────────────────────────┤
-│ Birthday Classic   │     1        │             4              │
-└────────────────────┴──────────────┴───────────────────────────┘
+┌──────────────────┬──────────────┬──────────────────────────┐
+│ cake_name        │ revenue_rank │ waste_adj_margin_rank     │
+├──────────────────┼──────────────┼──────────────────────────┤
+│ Birthday Classic │      1       │            4              │
+└──────────────────┴──────────────┴──────────────────────────┘
 
 margin_rank_gap    →  3
 rank_movement      → -3
@@ -225,7 +226,7 @@ has_rank_inversion →  1
 action_flag        →  review
 ```
 
-> **Revenue rank #1 drops to margin rank #4** after waste-adjusted margin is applied. Rank inversion confirmed.
+> **Revenue #1 drops to margin rank #4** after waste-adjusted margin is applied.
 
 </td>
 </tr>
@@ -234,8 +235,6 @@ action_flag        →  review
 <br/>
 
 ---
-
-<br/>
 
 ### &nbsp;&nbsp;▦ &nbsp;Django Analytics Platform
 
@@ -251,10 +250,7 @@ action_flag        →  review
 ![Python](https://img.shields.io/badge/Python-0a0c12?style=flat-square&logo=python&logoColor=e8d5a3)
 ![37 Tests](https://img.shields.io/badge/37_tests-1a1e28?style=flat-square)
 
-Bakery operations analytics platform with KPI dashboards, gold-layer metric snapshots, BI-ready CSV exports, data-quality review, product profitability, ingredient risk, and waste-adjusted margin analysis.
-
-**Signature insight:**
-> Birthday Classic is revenue rank #1 but drops to margin rank #4 after waste is applied — documented with reproducible methodology.
+Bakery operations analytics with KPI dashboards, gold-layer metric snapshots, BI-ready CSV exports, data-quality review, product profitability, ingredient risk, and waste-adjusted margin analysis.
 
 </td>
 <td width="50%" valign="top">
@@ -265,9 +261,7 @@ Bakery operations analytics platform with KPI dashboards, gold-layer metric snap
 ![Python](https://img.shields.io/badge/Python-0a0c12?style=flat-square&logo=python&logoColor=e8d5a3)
 ![828 Tests](https://img.shields.io/badge/828_tests-1a1e28?style=flat-square)
 
-Manual, evidence-led career intelligence and application-tracking platform with funnel metrics, source-performance reporting, CV A/B testing, rejection pattern analysis, and Application Document Pack workflow.
-
-**828 automated tests** · sprint-based delivery · claim-safe documentation
+Manual career intelligence and application-tracking platform with funnel metrics, source-performance reporting, CV A/B testing, rejection pattern analysis, and Application Document Pack workflow.
 
 </td>
 </tr>
@@ -276,8 +270,6 @@ Manual, evidence-led career intelligence and application-tracking platform with 
 <br/>
 
 ---
-
-<br/>
 
 ### &nbsp;&nbsp;▦ &nbsp;FinTech Analytics Suite
 
@@ -304,7 +296,7 @@ Multi-source market data ingestion with ETL workflows, normalised storage, run l
 ![Plotly](https://img.shields.io/badge/Plotly-0a0c12?style=flat-square&logo=plotly&logoColor=e8d5a3)
 ![17 KPIs](https://img.shields.io/badge/17_KPIs-1a1e28?style=flat-square)
 
-Post-trade analytics with 17-metric KPI engine, configurable Excel exports with optional KPI sheet, PDF reporting via xhtml2pdf, and session-driven analysis workflow.
+Post-trade analytics with 17-metric KPI engine, configurable Excel exports with optional KPI sheet, and PDF reporting via xhtml2pdf.
 
 </td>
 </tr>
@@ -326,26 +318,26 @@ Market monitoring layer with severity-ranked signals, watchlists, threshold aler
 ![Django](https://img.shields.io/badge/Django-0a0c12?style=flat-square&logo=django&logoColor=e8d5a3)
 ![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-1a1e28?style=flat-square)
 
-Pre-trade risk planning with Monte Carlo simulation, downside-aware scenario modelling, and capital-preservation decision support for trading workflows.
+Pre-trade risk planning with Monte Carlo simulation, downside-aware scenario modelling, and capital-preservation decision support.
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
----
+<!---------------------------------------------------------------------------->
+<!--  SECTION 04 — TECHNICAL STACK                                          -->
+<!---------------------------------------------------------------------------->
 
-<br/>
-
-## 04 &nbsp;/&nbsp; Technical Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0c12&height=64&text=%2004%20%2F%20Technical%20Stack&fontSize=20&fontColor=e8d5a3&fontAlign=8&fontAlignY=54&desc=dbt%20%C2%B7%20DuckDB%20%C2%B7%20Python%20%C2%B7%20Django%20%C2%B7%20SQL%20%C2%B7%20Excel%20%C2%B7%20Pandas%20%C2%B7%20Git&descSize=11&descColor=556070&descAlign=50&descAlignY=82" width="100%"/>
 
 <br/>
 
 <table width="100%">
 <tr>
 <th align="left" width="22%">Category</th>
-<th align="left" width="30%">Primary</th>
+<th align="left" width="32%">Primary</th>
 <th align="left">Supporting</th>
 </tr>
 <tr>
@@ -404,13 +396,13 @@ Pre-trade risk planning with Monte Carlo simulation, downside-aware scenario mod
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
----
+<!---------------------------------------------------------------------------->
+<!--  SECTION 05 — PROFESSIONAL BACKGROUND                                  -->
+<!---------------------------------------------------------------------------->
 
-<br/>
-
-## 05 &nbsp;/&nbsp; Professional Background
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0c12&height=64&text=%2005%20%2F%20Professional%20Background&fontSize=20&fontColor=e8d5a3&fontAlign=11&fontAlignY=54&desc=FX%20operations%20%C2%B7%20Money%20transfer%20%C2%B7%20KPI%20reporting%20%C2%B7%20Software%20platform%20support&descSize=11&descColor=556070&descAlign=50&descAlignY=82" width="100%"/>
 
 <br/>
 
@@ -467,13 +459,13 @@ Within 90 min of Purley
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
----
+<!---------------------------------------------------------------------------->
+<!--  SECTION 06 — TARGET ROLES                                             -->
+<!---------------------------------------------------------------------------->
 
-<br/>
-
-## 06 &nbsp;/&nbsp; Target Roles
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0c12&height=64&text=%2006%20%2F%20Target%20Roles&fontSize=20&fontColor=e8d5a3&fontAlign=7&fontAlignY=54&desc=Open%20to%20Data%20Analyst%20%C2%B7%20BI%20Analyst%20%C2%B7%20Reporting%20Analyst%20%C2%B7%20Junior%20Analytics%20Engineer&descSize=11&descColor=556070&descAlign=50&descAlignY=82" width="100%"/>
 
 <br/>
 
@@ -484,13 +476,15 @@ Within 90 min of Purley
 ![Reporting Analyst](https://img.shields.io/badge/Reporting_Analyst-0a0c12?style=for-the-badge&logoColor=e8d5a3)&nbsp;
 ![Junior AE](https://img.shields.io/badge/Junior_Analytics_Engineer-e8d5a3?style=for-the-badge&logoColor=0a0c12)
 
-![FinTech Analytics](https://img.shields.io/badge/FinTech_Analytics_Analyst-1a1e28?style=flat-square)&nbsp;
-![Operational Reporting](https://img.shields.io/badge/Operational_Reporting_Analyst-1a1e28?style=flat-square)&nbsp;
+<br/>
+
+![FinTech](https://img.shields.io/badge/FinTech_Analytics_Analyst-1a1e28?style=flat-square)&nbsp;
+![Operational](https://img.shields.io/badge/Operational_Reporting_Analyst-1a1e28?style=flat-square)&nbsp;
 ![AE Pathway](https://img.shields.io/badge/Analytics_Engineering_Pathway-1a1e28?style=flat-square)
 
 </div>
 
-<br/>
+<br/><br/>
 
 ---
 
@@ -507,13 +501,11 @@ Within 90 min of Purley
 ---
 
 <div align="center">
-
 <sub>All portfolio projects use seeded demo data. bakeops-dbt is a local DuckDB project — no cloud warehouse, no orchestration, no production deployment or live customers.</sub>
-
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0c12,141720,0a0c12&height=3&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0c12,1a1e28,0a0c12&height=4&section=footer" width="100%"/>
 </div>
